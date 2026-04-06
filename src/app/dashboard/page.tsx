@@ -129,21 +129,21 @@ export default function Dashboard() {
 
           <div className="bg-[#EBC1C7] p-6 rounded-3xl shadow hover:scale-105 transition">
             <div className="overflow-hidden rounded-2xl mb-4">
-              <img src="/cumple.jpeg" className="h-40 w-full object-cover hover:scale-110 transition"/>
+              <img src="/cumple.jpg" className="h-40 w-full object-cover hover:scale-110 transition"/>
             </div>
             <h4>Cumpleaños</h4>
           </div>
 
           <div className="bg-[#EFE4E6] p-6 rounded-3xl shadow hover:scale-105 transition">
             <div className="overflow-hidden rounded-2xl mb-4">
-              <img src="/grados.jpeg" className="h-40 w-full object-cover hover:scale-110 transition"/>
+              <img src="/grados.jpg" className="h-40 w-full object-cover hover:scale-110 transition"/>
             </div>
             <h4>Grados</h4>
           </div>
 
           <div className="bg-[#EFE4E6] p-6 rounded-3xl shadow hover:scale-105 transition">
             <div className="overflow-hidden rounded-2xl mb-4">
-              <img src="/babyshower.jpeg" className="h-40 w-full object-cover hover:scale-110 transition"/>
+              <img src="/babyshower.jpg" className="h-40 w-full object-cover hover:scale-110 transition"/>
             </div>
             <h4>Baby Shower</h4>
           </div>
