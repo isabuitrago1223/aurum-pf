@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { auth } from "@/lib/firebase";
+import { auth } from "../lib/firebase";
 import { onAuthStateChanged } from "firebase/auth";
 
 export default function Dashboard() {
